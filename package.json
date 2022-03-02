@@ -1,5 +1,5 @@
 {
-  "name": "single-page-svelte",
+  "name": "why-i-want-keychron",
   "version": "0.1.0",
   "type": "module",
   "license": "MIT",
@@ -19,6 +19,7 @@
     "@tsconfig/svelte": "^3.0.0",
     "@types/jest": "^27.4.0",
     "babel-jest": "^27.4.6",
+    "daisyui": "^2.2.2",
     "jest": "^27.4.7",
     "prettier": "^2.5.1",
     "prettier-plugin-svelte": "^2.6.0",
