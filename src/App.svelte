@@ -12,7 +12,9 @@
   const url = "https://why-i-want-keychron.vercel.app"
   const title = "Why I want Keychron?"
 
-  const menuItems = [{ name: "ทวีต", url: "https://github.com/narze/why-i-want-keychron" }]
+  const menuItems = [
+    { name: "ทวีตต้นทาง", url: "https://twitter.com/narze/status/1498962362627358720" },
+  ]
 
   const description = "Why I want Keychron?"
   const imageUrl =
@@ -61,7 +63,7 @@
 </script>
 
 <!-- <Kofi name="narze" label="Support Me" /> -->
-<!-- <Menu items={menuItems} /> -->
+<Menu items={menuItems} />
 <!-- <Social {url} {title} /> -->
 <Head {title} {description} {url} {imageUrl} {gtagId} />
 
