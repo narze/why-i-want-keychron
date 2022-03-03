@@ -1,23 +1,11 @@
 # Why I want Keychron?
 
-Build a single page app with Svelte, quickly.
+A website to randomize reason to get a Keychron Keyboard
 
-## Setup
+## Why do this?
 
-- Clone/fork this repository
-- `yarn` or `npm install`
-- `yarn dev` or `npm run dev`
+![image](https://user-images.githubusercontent.com/248741/156563905-f6e3a29b-7342-4524-8857-145b951100df.png)
 
-## What's included
+## Did you get it?
 
-- Svelte (TypeScript), built with [Vite](https://vitejs.dev)
-- Tailwind.css using [Twind](https://twind.dev)
-- [Ko-fi](https://ko-fi.com)
-- [Jest](https://jestjs.io) & [@testing-library/svelte](https://testing-library.com/docs/svelte-testing-library)
-
-## TODOs
-
-- [ ] Responsive design (Mobile first)
-- [ ] Linting with ESLint
-- [ ] Toggleable Dark Mode
-- [ ] Modal view (About/Credits)
+![image](https://user-images.githubusercontent.com/248741/156563790-70bbf220-68da-4268-a896-bdf51f5d3769.png)
